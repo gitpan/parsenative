@@ -1,0 +1,6 @@
+
+      :myrule:=  'hello' ;
+
+
+
+

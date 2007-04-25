@@ -1,0 +1,14 @@
+
+
+:mccoy:= |(
+	curse ',' name ', Im a doctor, not a' job '!' ,
+	pronoun 'dead,' name
+);
+
+:curse:= |('dammit', 'damn it') ;
+
+:name:= |('Jim', 'Spock', 'Scotty');
+
+:job:= |('magician' , 'miracle worker' , 'brick layer');
+
+:pronoun:= |('hes', 'shes', 'its', 'theyre' );

@@ -1,0 +1,6 @@
+
+:fruit:= |('apple','banana');
+
+:name:= 'bob';
+
+:myrule:= #{1,2}t(fruit) name;
